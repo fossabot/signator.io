@@ -1,6 +1,7 @@
 # Signator.IO
 
 This is a simple project that allows anyone to sign and confirm a signature. It works with both raw data and EIP-712 typed data![image.png](https://raw.githubusercontent.com/ByteAtATime/signatorio/refs/heads/main/assets/image.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fsignator.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fsignator.io?ref=badge_shield)
 
 ## Local Development
 
@@ -24,3 +25,7 @@ yarn start
 ```
 
 Open the application in the browser at http://localhost:3000
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fsignator.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fsignator.io?ref=badge_large)
